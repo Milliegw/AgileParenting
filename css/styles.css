@@ -1,0 +1,28 @@
+body {
+  padding-top: 5rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+.bg-dark {
+  background-color: deepskyblue!important;
+}
+.navbar-dark .navbar-brand {
+    color: indigo;
+}
+.navbar-dark .navbar-nav .active>.nav-link {
+  color: slategray;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: aquamarine;
+  }
+.btn-primary {
+    color: #fff;
+    background-color: deepskyblue;
+    border-color: white;
+  }
+  .carousel {
+    height: 500px;
+    overflow: hidden;
+  }
