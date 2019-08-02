@@ -1,19 +1,61 @@
 
-.carousel img {
+.carousel-inner img {
   margin: auto;
 }
-h1,h2 {
-  text-align:center;
-}
-h1 {
+h1{
+  padding-top: 100px;
+  padding-bottom: 20px;
+  text-align: center;
   font-family: fantasy;
 }
-h2 {
+h2{
+  text-align: center;
+  padding: 20px;
+  
   font-family: serif;
+  }
+.container{
+  text-align: left;
+  align-items: center;
+  padding: 10px;
+  margin: 15px;
+}
+.logo-image{
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: -6px;
+}
+.bg-dark {
+    background-color: black!important;
+    color: green;
+}
+.row{
+  align-items: center;
+margin: 20px;
+}
+.images{
+
+  padding-left:70px;
+
+}
+.btn-primary {
+  align-items: center;
+    color: #fff;
+    background-color: #37b314;
+    border-color: #37b314;
+
 }
 
-p{
-text-align:center;
+footer, #get-in-touch{
+  margin-top: 10px;
+  padding:1px;
+  color: black;
+  background-color: #fff;
+  border: 2px solid black;
+  text-align: center;
+
 }
 
 section.contrast {
@@ -23,4 +65,3 @@ section.contrast {
   justify-content: center;
   align-items: center;
 }
-
