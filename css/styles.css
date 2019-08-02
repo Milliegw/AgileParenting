@@ -1,3 +1,4 @@
+
 .carousel-inner img {
   margin: auto;
 }
@@ -5,10 +6,13 @@ h1{
   padding-top: 100px;
   padding-bottom: 20px;
   text-align: center;
+  font-family: fantasy;
 }
 h2{
   text-align: center;
   padding: 20px;
+  
+  font-family: serif;
   }
 .container{
   text-align: left;
@@ -52,4 +56,12 @@ footer, #get-in-touch{
   border: 2px solid black;
   text-align: center;
 
+}
+
+section.contrast {
+  background-color: rgb(0,0,0);
+  color: rgb(255,255,255);
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
