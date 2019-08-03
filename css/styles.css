@@ -17,6 +17,10 @@ h2{
 
   font-family: serif;
   }
+  p{
+    text-align: center;
+    font-family:cursive;
+  }
 .container{
   text-align: left;
   align-items: center;
