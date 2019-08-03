@@ -12,6 +12,8 @@
     left: 50%;
     transform: translate(-50%, -50%);
 }
+body { background: #aaf !important;}
+}
 h1{
   padding-top: 100px;
   padding-bottom: 20px;
