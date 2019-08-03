@@ -5,9 +5,12 @@
 .carousel img {
      margin: auto;
 }
-.tedtalk{
-  text-align: center;
-  width: 100%;
+.video{
+  position: absolute;
+    margin: auto;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 h1{
   padding-top: 100px;
@@ -24,6 +27,7 @@ h2{
   p{
     text-align: center;
     font-family:cursive;
+    padding-top: 70px
   }
 .container{
   text-align: left;
