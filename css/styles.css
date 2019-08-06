@@ -14,12 +14,14 @@ h2{
 
   font-family: serif;
   }
+
 .container{
   text-align: left;
   align-items: center;
   padding: 10px;
   margin: 15px;
 }
+
 .logo-image{
     width: 46px;
     height: 46px;
@@ -35,13 +37,16 @@ h2{
   align-items: center;
 margin: 20px;
 }
+
+
+
 .images{
 
   padding-left:70px;
 
 }
 
-<img align="left|right|middle|top|bottom">
+
 
 .btn-primary {
   align-items: center;
