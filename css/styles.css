@@ -63,9 +63,6 @@ margin: 20px;
   padding-left:70px;
 
 }
-
-
-
 .btn-primary {
   align-items: center;
     color: #fff;
@@ -73,7 +70,6 @@ margin: 20px;
     border-color: #37b314;
 
 }
-
 
 footer, #get-in-touch{
   margin-top: 10px;
@@ -124,4 +120,9 @@ section.contrast {
 .fa-instagram {
   background: darkmagenta;
   color: white;
+}
+
+.blockquote p {
+font-family: 'Caveat', cursive;
+font-size: 30px
 }
