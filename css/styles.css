@@ -18,7 +18,7 @@ h1{
   padding-top: 100px;
   padding-bottom: 20px;
   text-align: center;
-  font-family: fantasy;
+  font-family: montserrat;
 }
 h2{
   text-align: center;
@@ -26,16 +26,24 @@ h2{
 
   font-family: serif;
   }
+
   p{
     text-align: center;
     font-family:cursive;
     padding-top: 70px
   }
+
 .container{
   text-align: left;
   align-items: center;
   padding: 10px;
 }
+
+img
+{
+  margin-left: 80px;
+}
+
 .logo-image{
     width: 46px;
     height: 46px;
@@ -51,11 +59,15 @@ h2{
   align-items: center;
 margin: 20px;
 }
+
 .images{
 
   padding-left:70px;
 
 }
+
+
+
 .btn-primary {
   align-items: center;
     color: #fff;
@@ -63,6 +75,7 @@ margin: 20px;
     border-color: #37b314;
 
 }
+
 
 footer, #get-in-touch{
   margin-top: 10px;
