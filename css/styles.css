@@ -140,3 +140,16 @@ body {
 }
 
 .card {display:inline-block;}
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+
+.card-tenor-gif-embed{
+  width: 100%;
+  height: 15vw;
+  object-fit: cover;
+}
