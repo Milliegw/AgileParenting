@@ -12,25 +12,30 @@
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
 body { background: powderblue !important;}
 }
+
 h1{
   padding-top: 100px;
   padding-bottom: 20px;
   text-align: center;
   font-family: montserrat;
 }
+
 h2{
   text-align: center;
   padding: 20px;
 
   font-family: serif;
   }
-  p{
+
+p{
     text-align: center;
     font-family:cursive;
-    
+
   }
+
 .container{
   text-align: left;
   align-items: center;
@@ -125,3 +130,13 @@ section.contrast {
   background: darkmagenta;
   color: white;
 }
+
+body {
+  padding-top: 5rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+.card {display:inline-block;}
