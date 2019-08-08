@@ -147,6 +147,9 @@ body {
     object-fit: cover;
 }
 
+footer {
+  display: block;
+}
 
 .card-tenor-gif-embed{
   width: 100%;
