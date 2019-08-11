@@ -69,9 +69,16 @@ margin: 20px;
     border-color: #37b314;
 
 }
+footer p, #get-in-touch p{
+  padding: 0px;
+  margin: 0px;
+
+}
+
 
 footer, #get-in-touch{
-  margin-top: 10px;
+  margin: 10px 500px 10px 500px;
+
   padding:1px;
   color: black;
   background-color: #fff;
