@@ -77,19 +77,15 @@ margin: 20px;
 footer p, #get-in-touch p{
   padding: 0px;
   margin: 0px;
-
 }
-
 
 footer, #get-in-touch{
   margin: 10px 500px 10px 500px;
-
   padding:1px;
   color: black;
   background-color: #fff;
   border: 2px solid black;
   text-align: center;
-
 }
 
 section.contrast {
