@@ -5,6 +5,9 @@
 .carousel img {
      margin: auto;
 }
+img{
+    margin-left: 0px;
+}
 .video{
   position: absolute;
     margin: auto;
@@ -14,6 +17,7 @@
 }
 body { background: powderblue !important;}
 }
+
 h1{
   padding-top: 100px;
   padding-bottom: 20px;
@@ -38,7 +42,7 @@ h2{
 
 img
 {
-  margin-left: 80px;
+  margin-left: 0px;
 }
 
 .logo-image{
@@ -59,7 +63,7 @@ margin: 20px;
 
 .images{
 
-  padding-left:70px;
+  padding-left:0px;
 
 }
 .btn-primary {
