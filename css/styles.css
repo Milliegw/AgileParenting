@@ -63,14 +63,13 @@ img
 }
 .row{
   align-items: center;
-margin: 20px;
+margin-left: : 50px;
+}
+img {
+    margin-left: 80px;
 }
 
-.images{
 
-  padding-left:0px;
-
-}
 .btn-primary {
   align-items: center;
     color: #fff;
