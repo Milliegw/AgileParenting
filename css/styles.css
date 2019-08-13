@@ -133,3 +133,5 @@ section.contrast {
 font-family: 'Dancing Script', cursive;
 font-size: 30px
 }
+
+.card {display:inline-block;}
