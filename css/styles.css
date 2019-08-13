@@ -32,13 +32,17 @@ h2{
   p{
     text-align: center;
     font-family:'Crimson Pro', serif;
-    padding-top: 70px;
+    padding-top: 10px;
     font-size: 20px;
   }
 .container{
-  text-align: left;
+  text-align: center;
   align-items: center;
   padding: 10px;
+}
+.center-block {
+  margin: auto;
+  display: block;
 }
 
 img
