@@ -10,19 +10,24 @@ img{
 }
 .video{
   position: absolute;
-    margin: auto;
-    top: 70%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+  margin: auto;
+  top: 70%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
-body { background: powderblue !important;}
+body {
+  background: powderblue !important;}
+}
+form.form1{
+  text-align: center;
+  float: inherit;
 }
 
 h1{
   padding-top: 100px;
   padding-bottom: 20px;
   text-align: center;
-  font-family: 'Cinzel', serif;
+  font-family: verdana;
 }
 h2{
   text-align: center;
@@ -32,13 +37,17 @@ h2{
   p{
     text-align: center;
     font-family:'Crimson Pro', serif;
-    padding-top: 70px;
+    padding-top: 0px;
     font-size: 20px;
   }
 .container{
-  text-align: left;
+  text-align: center;
   align-items: center;
   padding: 10px;
+}
+.center-block {
+  margin: auto;
+  display: block;
 }
 
 img
