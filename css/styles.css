@@ -68,7 +68,9 @@ margin-left: : 50px;
 img {
     margin-left: 0px;
 }
-
+img.images{
+  margin-left: 80px;
+}
 
 .btn-primary {
   align-items: center;
