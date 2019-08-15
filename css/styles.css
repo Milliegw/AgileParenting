@@ -15,7 +15,9 @@ img{
     left: 50%;
     transform: translate(-50%, -50%);
 }
-body { background: powderblue !important;}
+body {
+  background: powderblue !important;
+  font-family: Kristi !important;
 }
 
 h1{
@@ -48,14 +50,37 @@ h2{
 img
 {
   margin-left: 0px;
+  border-radius: 10%;
+  border: 5px;
 }
-
+img.images{
+  margin-left: 70px;
+  height: 300px;
+  width: 300px;
+  padding: 20px;
+}
 .logo-image{
     width: 46px;
     height: 46px;
     border-radius: 50%;
     overflow: hidden;
     margin-top: -6px;
+}
+.navbar-dark .navbar-brand {
+    color: #fff;
+    font-family: Kristi!important;
+    font-size: 40px;
+
+}
+.btn{
+  background-color: #f57396!important;
+  color:#fff;
+  margin:0px;
+}
+.nav-link {
+    color: #fff;
+    font-family: Kristi!important;
+    font-size: 30px;
 }
 .bg-dark {
     background-color: #8efada!important;
@@ -88,6 +113,7 @@ img.images{
 footer p, #get-in-touch p{
   padding: 0px;
   margin: 0px;
+
 }
 
 footer, #get-in-touch{
@@ -95,7 +121,8 @@ footer, #get-in-touch{
   padding:1px;
   color: black;
   background-color: #fff;
-  border: 2px solid black;
+  border: 2px solid #f57396;
+  border-radius: 10%;
   text-align: center;
 }
 
@@ -144,5 +171,11 @@ section.contrast {
 font-family: 'Dancing Script', cursive;
 font-size: 30px
 }
+
+form{
+  font-family: serif;
+
+}
+
 
 .card {display:inline-block;}
