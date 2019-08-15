@@ -88,14 +88,15 @@ img.images{
 }
 .row{
   align-items: center;
-margin: 20px;
+margin-left: : 50px;
+}
+img {
+    margin-left: 0px;
+}
+img.images{
+  margin-left: 80px;
 }
 
-.images{
-
-  padding-left:0px;
-
-}
 .btn-primary {
   align-items: center;
     color: #fff;
@@ -164,7 +165,12 @@ section.contrast {
 font-family: 'Dancing Script', cursive;
 font-size: 30px
 }
+
 form{
   font-family: serif;
 
 }
+
+
+.card {display:inline-block;}
+
