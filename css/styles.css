@@ -58,8 +58,14 @@ img
     margin-top: -6px;
 }
 .bg-dark {
-    background-color: black!important;
+    background-color: #8efada!important;
     color: green;
+}
+.nav-link {
+    color:black!important;
+}
+.navbar-dark .navbar-brand {
+    color: black!important;
 }
 .row{
   align-items: center;
